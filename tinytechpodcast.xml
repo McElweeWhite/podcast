@@ -224,7 +224,7 @@ If you are in the business of making plastics, or gasoline, or pharmaceuticals, 
 	<itunes:summary>Episode 013
 	
 Consider the gecko, a fascinating lizard. Geckos have the amazing ability to walk upside down even on the undersides of smooth surfaces such as glass.This ability is due to the millions of tiny flexible hairs on the undersides of their feet.  </itunes:summary>
-<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0013-Gecko-Feet.mp3"> length="1435006" type="audio/mpeg" />
+<enclosure url="https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0013-Gecko-Feet.mp3" length="1435006" type="audio/mpeg" />
 	<guid>https://lmwhite.chem.ufl.edu/wp-content/uploads/sites/374/0013-Gecko-Feet.mp3"</guid>
 	<pubDate>Fri, 14 July 2017 03:39:05 GMT</pubDate>
 	<itunes:duration>00:01:30</itunes:duration>
@@ -377,6 +377,7 @@ The plastic items we know so well are made of polymers, materials consisting of 
 	<itunes:duration>00:01:30</itunes:duration>
 	<itunes:keywords>nanotechnology, computers</itunes:keywords>
 </item>
+
 
 <item>
 	<title>Aerogels Lighter than a Feather</title>
